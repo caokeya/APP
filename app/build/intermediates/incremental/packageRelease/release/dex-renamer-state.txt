@@ -1,0 +1,4 @@
+#Mon Jun 25 23:38:59 CST 2018
+base.0=D\:\\andriodpro\\Majiang\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

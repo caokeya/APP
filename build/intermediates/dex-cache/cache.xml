@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rocky\.gradle\caches\modules-2\files-2.1\com.amap.api\location\4.1.0\6b86552c8195b3984ec8e4a90706379ae8363317\location-4.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6b86552c8195b3984ec8e4a90706379ae8363317">
+        <dex dex="D:\andriodpro\Majiang\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+
+</items>

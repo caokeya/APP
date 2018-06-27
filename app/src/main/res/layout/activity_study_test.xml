@@ -65,7 +65,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textSize="@dimen/text_size_m"
+                        android:textSize="@dimen/text_size_l"
                         android:textColor="@color/black"
                         android:text="方位学习"/>
                     <TextView
@@ -143,9 +143,9 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textSize="@dimen/text_size_m"
+                        android:textSize="@dimen/text_size_l"
                         android:textColor="@color/black"
-                        android:text="打色按键学习"/>
+                        android:text="骰子盘按键学习"/>
                     <TextView
                         android:id="@+id/tv_useDiceProgress"
                         android:layout_width="match_parent"
@@ -513,7 +513,7 @@
                         android:layout_height="wrap_content"
                         android:textSize="@dimen/text_size_m"
                         android:textColor="@color/black"
-                        android:text="打色延时："/>
+                        android:text="按键延时："/>
                     <com.wzp.majiang.widget.AddSubWidget
                         android:id="@+id/as_useDiceDelay"
                         android:layout_width="0dp"

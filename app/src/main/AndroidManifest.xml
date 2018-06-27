@@ -100,7 +100,7 @@
         </provider>
 
         <!--my laptop-->
-        <meta-data android:name="com.amap.api.v2.apikey" android:value="50fc740ce3ee52336c8467582197f991">
+        <meta-data android:name="com.amap.api.v2.apikey" android:value="938282921ea338c2cbe81954a1478e12">
         </meta-data>
 
         <!--DSJYJY-->

@@ -1,0 +1,296 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\60e6507c53bbb3c40f9fb2ea4a2eeb41\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ec3498118e5c14ee4b2bc1dc10cef260\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\df93052e860a4e68a350e9f2709ce5f1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0322552132e82ec1eb671a949c1510cf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e54647a7ec7ef4052a0e72bdfb5a4a2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fa45351b846b156f35bc25930f159a54\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a8a7ceeb55e982cbb5532816b8911a3b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a8dd264c19baac67d8a9a3493da2a875\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5267c8651c6bf7090b1922cdb6de88fb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0a31f2f5a277496ba48ab27b386ba65e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4832b642517669521edc865e73bdac8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68891c9b35e52241255ec852efca14f3\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+	package
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:1-114:12
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:17:5-97
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:19:5-95
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:23:5-92
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:25:5-92
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:27:5-83
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:29:5-91
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:29:22-72
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:33:5-105
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:33:22-86
+application
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:36:5-112:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\60e6507c53bbb3c40f9fb2ea4a2eeb41\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\60e6507c53bbb3c40f9fb2ea4a2eeb41\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ec3498118e5c14ee4b2bc1dc10cef260\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ec3498118e5c14ee4b2bc1dc10cef260\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0322552132e82ec1eb671a949c1510cf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0322552132e82ec1eb671a949c1510cf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e54647a7ec7ef4052a0e72bdfb5a4a2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e54647a7ec7ef4052a0e72bdfb5a4a2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fa45351b846b156f35bc25930f159a54\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fa45351b846b156f35bc25930f159a54\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a8a7ceeb55e982cbb5532816b8911a3b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a8a7ceeb55e982cbb5532816b8911a3b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a8dd264c19baac67d8a9a3493da2a875\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a8dd264c19baac67d8a9a3493da2a875\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5267c8651c6bf7090b1922cdb6de88fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5267c8651c6bf7090b1922cdb6de88fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0a31f2f5a277496ba48ab27b386ba65e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0a31f2f5a277496ba48ab27b386ba65e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4832b642517669521edc865e73bdac8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4832b642517669521edc865e73bdac8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68891c9b35e52241255ec852efca14f3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68891c9b35e52241255ec852efca14f3\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:41:9-35
+	android:label
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:40:9-41
+	android:icon
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:39:9-37
+	android:allowBackup
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:38:9-35
+	android:theme
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:42:9-45
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:37:9-45
+activity#com.wzp.majiang.activity.DailActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:43:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:47:27-74
+activity#com.wzp.majiang.activity.MainActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:51:19-56
+activity#com.wzp.majiang.activity.ShowMajiangActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:54:9-55:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:54:19-63
+activity#com.wzp.majiang.activity.ShowHandMajiangActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:57:9-58:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:57:19-67
+activity#com.wzp.majiang.activity.ShowBaopaiActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:60:9-61:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:60:19-62
+activity#com.wzp.majiang.activity.RecognizeDirectionActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:63:9-64:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:63:19-70
+activity#com.wzp.majiang.activity.SettingActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:66:9-67:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:66:19-59
+activity#com.wzp.majiang.activity.DeviceListActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:69:9-73:20
+	android:launchMode
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:72:13-43
+	android:theme
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:71:13-51
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:70:13-56
+activity#com.wzp.majiang.activity.ShowPlayMethodActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:75:9-76:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:75:19-66
+activity#com.wzp.majiang.activity.EditChooseCardMethodActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:79:9-80:20
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:79:19-72
+activity#com.wzp.majiang.activity.EditPlayMethodActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:82:9-69
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:82:19-66
+activity#com.wzp.majiang.activity.ReceiveSendFileActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:84:9-70
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:84:19-67
+activity#com.wzp.majiang.activity.ChooseFunctionActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:86:9-69
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:86:19-66
+activity#com.wzp.majiang.activity.DailManualActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:88:9-65
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:88:19-62
+activity#com.wzp.majiang.activity.StudyTestActivity
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:90:9-64
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:90:19-61
+provider#android.support.v4.content.FileProvider
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:92:9-100:20
+	android:grantUriPermissions
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:96:13-47
+	android:authorities
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:94:13-63
+	android:exported
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:93:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:97:13-99:54
+	android:resource
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:99:17-51
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:98:17-67
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:103:9-104:21
+	android:value
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:103:58-106
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:103:20-57
+service#com.amap.api.location.APSService
+ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:111:9-76
+	android:name
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml:111:18-65
+uses-sdk
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\60e6507c53bbb3c40f9fb2ea4a2eeb41\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\60e6507c53bbb3c40f9fb2ea4a2eeb41\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ec3498118e5c14ee4b2bc1dc10cef260\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ec3498118e5c14ee4b2bc1dc10cef260\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\df93052e860a4e68a350e9f2709ce5f1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\df93052e860a4e68a350e9f2709ce5f1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0322552132e82ec1eb671a949c1510cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0322552132e82ec1eb671a949c1510cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e54647a7ec7ef4052a0e72bdfb5a4a2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e54647a7ec7ef4052a0e72bdfb5a4a2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fa45351b846b156f35bc25930f159a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fa45351b846b156f35bc25930f159a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a8a7ceeb55e982cbb5532816b8911a3b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a8a7ceeb55e982cbb5532816b8911a3b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a8dd264c19baac67d8a9a3493da2a875\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a8dd264c19baac67d8a9a3493da2a875\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5267c8651c6bf7090b1922cdb6de88fb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5267c8651c6bf7090b1922cdb6de88fb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0a31f2f5a277496ba48ab27b386ba65e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0a31f2f5a277496ba48ab27b386ba65e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4832b642517669521edc865e73bdac8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4832b642517669521edc865e73bdac8\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68891c9b35e52241255ec852efca14f3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68891c9b35e52241255ec852efca14f3\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+		ADDED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+		INJECTED from D:\andriodpro\Majiang\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\60e6507c53bbb3c40f9fb2ea4a2eeb41\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\60e6507c53bbb3c40f9fb2ea4a2eeb41\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\df93052e860a4e68a350e9f2709ce5f1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\df93052e860a4e68a350e9f2709ce5f1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0322552132e82ec1eb671a949c1510cf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\0322552132e82ec1eb671a949c1510cf\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e54647a7ec7ef4052a0e72bdfb5a4a2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\8e54647a7ec7ef4052a0e72bdfb5a4a2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fa45351b846b156f35bc25930f159a54\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fa45351b846b156f35bc25930f159a54\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a8a7ceeb55e982cbb5532816b8911a3b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a8a7ceeb55e982cbb5532816b8911a3b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a8dd264c19baac67d8a9a3493da2a875\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\a8dd264c19baac67d8a9a3493da2a875\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5267c8651c6bf7090b1922cdb6de88fb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5267c8651c6bf7090b1922cdb6de88fb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0a31f2f5a277496ba48ab27b386ba65e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0a31f2f5a277496ba48ab27b386ba65e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4832b642517669521edc865e73bdac8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4832b642517669521edc865e73bdac8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68891c9b35e52241255ec852efca14f3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\68891c9b35e52241255ec852efca14f3\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Rocky\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\c264efa14a04c923e16a108eecbc472b\AndroidManifest.xml:26:9-47
